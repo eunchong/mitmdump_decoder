@@ -18,7 +18,7 @@ git clone https://github.com/bettse/mitmdump_decoder.git
 
 apt-get install python-pip python-dev libffi-dev libssl-dev libxml2-dev libxslt1-dev libjpeg8-dev zlib1g-dev
 
-pip install numpy geojson protobuf>=3.0.0a3 mitmproxy
+pip install numpy geojson 'protobuf>=3.0.0a3' mitmproxy
 ```
 
 ## Running
